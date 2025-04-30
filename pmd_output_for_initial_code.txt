@@ -1,0 +1,8 @@
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:11:	MissingOverride:	The method 'toPower(int, int)' is missing an @Override annotation.
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:13:	ControlStatementBraces:	This statement should have braces
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:15:	EmptyControlStatement:	Empty for statement
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:15:	ControlStatementBraces:	This statement should have braces
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:17:	UnnecessarySemicolon:	Unnecessary semicolon
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:18:	UnnecessarySemicolon:	Unnecessary semicolon
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:27:	MissingOverride:	The method 'toPower(int, int)' is missing an @Override annotation.
+C:\Users\sahil\OneDrive\Desktop\ser515_srasto12_CLab3\clab3_StaticAnalysis_srasto12\solid3\IPower.java:28:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'PowerCached': '__cache' is already in scope because it is declared in an enclosing type
